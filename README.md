@@ -43,3 +43,5 @@ I quan hagi carregat el suficient per començar a reproduir s'iniciarà la repro
 
 ## Properes versions
 Per descomptat es tracta de la versió 1.0 de la Millennum Falcon feta per tu, en les següents actualitzacions (ja ho tinc tot en marxa) et podràs connectar remotament des de qualsevol lloc per tal de descarregar el contingut tan bon punt et vingui al cap o surtis de la feina per tenir-lo llest al arribar a casa. Així no hauràs d'anar carregant el Mac amunt i avall, encara que sé que ho continuaràs fent :P
+
+Pots consultar [aqui](https://github.com/josunefon/MillenniumFalcon/projects/1) el que portaran les següents actualitzacions del teu regal
